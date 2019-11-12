@@ -1,4 +1,5 @@
 # Implement the following functions
+# Author : Ruween Iddagoda
 
 # Activation (sigmoid) function
 def sigmoid(x):
